@@ -1,4 +1,4 @@
-const jwt=require("jsonwebtoken");
-module.exports={
-    JWT_SECRET:"secret"
-};
+//backend/config.js
+module.exports = {
+	JWT_SECRET: "your-jwt-secret"
+}
